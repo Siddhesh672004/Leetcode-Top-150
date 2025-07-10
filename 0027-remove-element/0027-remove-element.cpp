@@ -1,6 +1,6 @@
 class Solution {
 public:
-    //Optimum solution for this qustion
+    //Brute Force solution
     int removeElement(vector<int>& nums, int val) {
         int k = 0;
         for(int i=0; i<nums.size(); i++){
