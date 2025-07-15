@@ -1,36 +1,21 @@
 class Solution {
 public:
-    //Brute Force Solution
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        vector<int> nums3;
-        int left = 0;
-        int right = 0;
+        int p1= m - 1; 
+        int p2 = n - 1;
+        int i = m + n -1;
 
-        while(left < m && right < n){
-            if(nums1[left] <= nums2[right]){
-                nums3.push_back(nums1[left]);
-                left++;
+        while(p2 >= 0){
+            if(p1 >= 0 && nums1[p1] > nums2[p2]){
+                nums1[i] = nums1[p1];
+                i--;
+                p1--;
             }
             else{
-                nums3.push_back(nums2[right]);
-                right++;
+                nums1[i] = nums2[p2];
+                i--;
+                p2--;
             }
-        }
-
-        while(left < m){
-            nums3.push_back(nums1[left]);
-            left++;
-        }
-
-        while(right < n){
-            nums3.push_back(nums2[right]);
-            right++;
-        }
-
-        int i = 0;
-        while(i < n+m){
-            nums1[i] = nums3[i];
-            i++;
-        }
+        }    
     }
 };
