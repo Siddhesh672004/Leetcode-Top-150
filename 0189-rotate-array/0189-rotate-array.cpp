@@ -1,14 +1,34 @@
+//Optimal Approach 
+//Time Complexity: O(n)
+//Space Complexity: O(1)
+
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<int> temp(n);
+        k %= n; // Handle k > n
 
-        for(int i=0; i<n; i++){
-            temp[(i+k)%n] = nums[i];
-        }   
-
-        //Copy Nums to temp vector
-        nums = temp;
+        reverse(nums.begin(), nums.end());
+        reverse(nums.begin(), nums.begin() + k);
+        reverse(nums.begin() + k, nums.end());
     }
 };
+
+// //Better Approach 
+// //Time Complexity: O(n)
+// //Space Complexity: O(n)
+
+// class Solution {
+// public:
+//     void rotate(vector<int>& nums, int k) {
+//         int n = nums.size();
+//         vector<int> temp(n);
+
+//         for(int i=0; i<n; i++){
+//             temp[(i+k)%n] = nums[i];
+//         }   
+
+//         //Copy Nums to temp vector
+//         nums = temp;
+//     }
+// };
