@@ -1,3 +1,7 @@
+//Optimal Solution
+//Time Complexity: O(n)
+//Space Complexity: O(1)
+
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
