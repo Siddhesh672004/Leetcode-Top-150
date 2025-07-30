@@ -37,6 +37,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -50,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
