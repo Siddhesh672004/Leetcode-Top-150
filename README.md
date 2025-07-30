@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -92,4 +94,12 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0012-integer-to-roman) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
