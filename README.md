@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0088-merge-sorted-array) |
@@ -62,6 +64,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -102,4 +105,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
