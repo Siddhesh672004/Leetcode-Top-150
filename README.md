@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0055-jump-game) |
@@ -108,6 +109,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
