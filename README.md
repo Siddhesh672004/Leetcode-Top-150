@@ -101,6 +101,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
