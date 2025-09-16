@@ -31,6 +31,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0948-sort-an-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0948-sort-an-array) |
+| [1009-pancake-sorting](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/1009-pancake-sorting) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0189-rotate-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0392-is-subsequence) |
+| [1009-pancake-sorting](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/1009-pancake-sorting) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0169-majority-element](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0948-sort-an-array) |
+| [1009-pancake-sorting](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/1009-pancake-sorting) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +105,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0135-candy) |
+| [1009-pancake-sorting](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/1009-pancake-sorting) |
 ## Counting Sort
 |  |
 | ------- |
