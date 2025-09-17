@@ -32,6 +32,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0380-insert-delete-getrandom-o1) |
 | [0948-sort-an-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0948-sort-an-array) |
 | [1009-pancake-sorting](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/1009-pancake-sorting) |
+| [1046-max-consecutive-ones-iii](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/1046-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0287-find-the-duplicate-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
