@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0075-sort-colors) |
@@ -191,4 +192,12 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0948-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
