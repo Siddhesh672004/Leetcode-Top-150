@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0056-merge-intervals) |
@@ -75,6 +76,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0948-sort-an-array) |
 ## Counting
@@ -94,6 +96,7 @@
 | [0022-generate-parentheses](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddhesh672004/Leetcode-Top-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
